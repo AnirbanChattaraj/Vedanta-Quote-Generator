@@ -36,3 +36,4 @@ Deployment	GitHub Pages
 Anirban Chattaraj
 🔥 Developer | Learner | Vedantic Mindset
 📘 “Strength, Faith, and Fearlessness — my code and my creed.”
+Preview:https://anirbanchattaraj.github.io/Vedanta-Quote-Generator/
