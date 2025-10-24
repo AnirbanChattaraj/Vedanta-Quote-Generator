@@ -31,9 +31,11 @@ Deployment	GitHub Pages
 “Each soul is potentially divine. The goal is to manifest that divinity within.”
 — Swami Vivekananda
 
-👨‍💻 Author
 
-Anirban Chattaraj
+
+👨‍💻 Author-->
+
+ Anirban Chattaraj
 🔥 Developer | Learner | Vedantic Mindset
 📘 “Strength, Faith, and Fearlessness — my code and my creed.”
 Preview:https://anirbanchattaraj.github.io/Vedanta-Quote-Generator/
