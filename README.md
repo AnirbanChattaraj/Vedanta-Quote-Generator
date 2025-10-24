@@ -5,7 +5,7 @@ Each click reveals a new pearl of spiritual insight, rendered with glowing typog
 
 🎨 Features
 
-🕉️ Golden–Black Premium Design (Luxury minimal aesthetic)
+🕉️ Golden–Black Premium Design 
 
 💬 Dynamic Vedanta Quotes (Swami Vivekananda, Gita, Upanishads)
 
